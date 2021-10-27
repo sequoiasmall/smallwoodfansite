@@ -1,5 +1,4 @@
 # smallwoodfansite
-<!DOCTYPE html>
 <html>
 	<head>
 	<title> Kpop Wiki </title>
