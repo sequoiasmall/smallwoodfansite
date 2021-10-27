@@ -70,7 +70,7 @@
 		<li>The Chaos Chapter: Freeze</li> 
 		<li>The Chaos Chapter: Fight or Escape
 	</ul>	
-</details>
+	</details>
 	<h4>Awards & Achievements</h4>
 	<details>
 	<ul>
