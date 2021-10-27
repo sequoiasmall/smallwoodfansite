@@ -41,6 +41,7 @@
 	<h3>Tomorrow x Together</h3>
 		<p>Boy group Tomorrow x Together, also known as TXT, consists of 5 members who are deemed as Kpop's 4th generation "It Boys".</p>
 		<img src="https://c.tenor.com/es0-yZhKjeQAAAAd/txt.gif" width="490" height="400" alt="TomorrowxTogether">
+	</details>
 	<h4>Members</h4>
 	<details>
 	<ul>
