@@ -58,7 +58,7 @@
 	<h4>History</h4>
 	<details>
 		<p> Back in 2017 Big Hit Enterntainment, announced plans to debut a second boygroup, following BTS, for the first time in 6 years. The company held both global and domestic auditions in search of potential members. By late 2018 the groups lineup was finalized and the company announced plans to debut early the next year. Leading up to their debut release, Big Hit released introductory videos for each member that showcased each members personality while keeping all but their names a secret. On January 10, 20th their debut song "Crown" was released. TXT has been known to capture the general publics hearts due to their addictive music and relatable personalities. Due to the groups domination of music charts and social media, primarily TikTok and Twitter, they've become known as the 4th generations "It boys".</p>
-	</details>
+</details>
 	<h4>Discography</h4>
 	<details>
 		<ul>
